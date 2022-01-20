@@ -1,5 +1,5 @@
 # mnist-detection
-mnistを使って物体検知用の画像データを作りpytorchのdetectron2でモデル作成する  
+mnistから下のような画像データを作りpytorchのdetectron2で物体検知モデルを作成する  
 Qiita記事  
 https://qiita.com/persimmon-persimmon/items/0c744f5566e5ec9dd21c
   
